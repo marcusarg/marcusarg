@@ -1,4 +1,4 @@
--  ## Oi, eu sou o @marcusarg, jóia? 👋 
+-  ## Oi, eu sou o @marcusarg. Jóia? 👋 
 -  ✨ Tenho me interessado pela programação e design visual de programas e sites.
 -  📚  Atualmente eu tenho estudado HTML, CSS e Java.
 -  🕹️ Procuro colaborar com programadores iniciantes.
@@ -6,7 +6,7 @@
 -  📫 Me contate por marcus.augusto1@gmail.com ou pelo Linkedin: Marcus Augusto Rodrigues Guedes.
 <div>
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusarg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=marcusarg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusarg&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
